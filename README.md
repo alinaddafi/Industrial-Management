@@ -1,1 +1,1 @@
-# Industrial-Management
+An example of product review system design
